@@ -1,0 +1,1 @@
+<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">App1</string><string-array name="Connect_Mode_Array"><item>開啟後自動連接藍芽</item><item>開啟後詢問是否連接藍芽</item></string-array></resources>
